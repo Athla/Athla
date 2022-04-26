@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Athlas/@Grimmace;
-- 👀 I’m interested in WebApps with Python, pursuing the path of a fullstack dev in a few years;
-- 🌱 I’m currently learning Django Framework and HTML;
+- 👀 I’m interested in FrontEnd development;
+- 🌱 I’m currently learning HTML and CSS;
 - 📫 Wanna contact me? Send me a message on LinkedIn https://www.linkedin.com/in/g-c-rodrigues/.
 
 <!---
