@@ -1,6 +1,6 @@
 - 👋 Hello  there, not ObiWan Kenobi, i'm @Athla/@Guilheme.grimm;
 - 👀 I’m interested in Fullstack Web Development;
-- 🌱 I’m improving my Python skilss, few NDA projects in web automation with Selenium;
+- 🌱 I’m improving my Python skills, few NDA projects in web automation with Selenium;
 - 📫 Wanna contact me? Send me a message on LinkedIn!
                                         https://www.linkedin.com/in/g-c-rodrigues/.
 
