@@ -1,6 +1,7 @@
-- 👋 Hello  there, not ObiWan Kenobi, i'm @Athla/@Guilheme.grimm;
-- 👀 I’m interested in Fullstack Web Development;
-- 🌱 I’m improving my Python and Django Framework skill for the back end, training JS for web development alongside HTML5 and CSS3;
+- 👋 Hello  there! I'm @Athla/@Guilheme.grimm;
+- 👀 I’m interested in Fullstack Development;
+- 🌱 I’m improving my Software Development Skills;
+- As of now I'm working as a SWD Intern @ Dell Technologies.
 - 📫 Wanna contact me? Send me a message on LinkedIn!
                                         https://www.linkedin.com/in/g-c-rodrigues/.
 
