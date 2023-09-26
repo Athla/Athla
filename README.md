@@ -1,5 +1,5 @@
 - 👋 Hello  there! I'm @Athla/@Guilheme.grimm;
-- 👀 I’m interested in Fullstack Development;
+- 👀 I'm a Backend Developer/Data Engineer;
 - 🌱 I’m improving my Software Development Skills;
 - As of now I'm working as a SWD Intern @ Dell Technologies.
 - 📫 Wanna contact me? Send me a message on LinkedIn!
