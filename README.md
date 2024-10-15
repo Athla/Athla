@@ -26,19 +26,3 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'www.linkedin.com/in/g-c-rodrigues'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/Athla'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Athla&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Athla&show_icons=true&theme=tokyonight) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athla&theme=tokyonight) | 
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664) For the GitHub template
